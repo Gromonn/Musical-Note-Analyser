@@ -30,9 +30,6 @@ musical-note-analyser/
 ├── audio/
 │   └── Voice_035.wav
 │
-├── src/
-│   └── project.py
-│
 ├── notebooks/
 │   └── Musical_Note_Analyser.ipynb
 │
